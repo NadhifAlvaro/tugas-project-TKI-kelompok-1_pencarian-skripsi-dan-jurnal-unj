@@ -59,7 +59,7 @@ Browser akan terbuka otomatis di `http://localhost:8501`. Jalankan pertama kali 
 ## Kontribusi anggota
 | Nama | Peran |
 |---|---|
-| [nama] | Data |
+| [n] | Data |
 | [nama] | Core IR |
 | [nama] | Antarmuka dan fitur |
 | [nama] | Evaluasi dan laporan |
