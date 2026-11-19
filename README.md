@@ -61,5 +61,5 @@ Browser akan terbuka otomatis di `http://localhost:8501`. Jalankan pertama kali 
 |---|---|
 | [n] | Data |
 | nadhif dobry alvaro | Core IR |
-| [nama] | Antarmuka dan fitur |
+| raditya dandi maulana | Antarmuka dan fitur |
 | [nama] | Evaluasi dan laporan |
